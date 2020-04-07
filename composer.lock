@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d09573604489c6fb73fad6e6b2a5804a",
+    "content-hash": "863d7ece8f851e2b6e2d521cd8d7803d",
     "packages": [
         {
             "name": "pasoonate/pasoonate-php",
-            "version": "0.2.0",
+            "version": "0.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pasoonate/pasoonate-php.git",
-                "reference": "44570312f21c190f0b6aa5a7a84517e6716433a0"
+                "reference": "9a565000fb358a8a57599d2f7bc240752e1770f1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pasoonate/pasoonate-php/zipball/44570312f21c190f0b6aa5a7a84517e6716433a0",
-                "reference": "44570312f21c190f0b6aa5a7a84517e6716433a0",
+                "url": "https://api.github.com/repos/pasoonate/pasoonate-php/zipball/9a565000fb358a8a57599d2f7bc240752e1770f1",
+                "reference": "9a565000fb358a8a57599d2f7bc240752e1770f1",
                 "shasum": ""
             },
             "require": {
@@ -53,7 +53,7 @@
                 "hijri calendar",
                 "persian calendar"
             ],
-            "time": "2020-04-05T04:31:36+00:00"
+            "time": "2020-04-07T11:00:08+00:00"
         }
     ],
     "packages-dev": [
